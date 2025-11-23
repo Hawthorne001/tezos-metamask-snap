@@ -34,7 +34,7 @@
     "react-is": "^18.2.0",
     "safe-buffer": "^5.2.1",
     "stream-browserify": "^3.0.0",
-    "styled-components": "5.3.3"
+    "styled-components": "5.3.11"
   },
   "devDependencies": {
     "@metamask/eslint-config": "^10.0.0",
